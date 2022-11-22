@@ -3,7 +3,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## About The Project
 
@@ -28,7 +27,6 @@ CSVto3Dstrings is a useful tool to convert any CSV file into a 3-d array of stri
 2. In the terminal, execute with the following usage: `python csvto3dstrings.py INPUTFILE OUTPUTFILE STRUCTURENAME`. For example, you might execute `python csvto3dstrings.py scales.csv scales.h myScales`. Notice that `scales.csv` in the inputfile, `scales.h` is the output file, and the name of the 3-d array is `myScales`.
 3. For testing purposes, the above referenced input file is included in the repo for testing.
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Your contributions to this project are very much appreciated. If you would like to help make this project better, fork to repo and create a pull request. Alternatively, you can open an issue with the tag "request." Please star this project!
@@ -48,15 +46,15 @@ Pending...
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
 [contributors-url]: https://github.com/guyewhite/CSVto3Dstrings/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
 [forks-url]: https://github.com/guyewhite/CSVto3Dstrings/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
 [stars-url]: https://github.com/guyewhite/CSVto3Dstrings/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
 [issues-url]: https://github.com/guyewhite/CSVto3Dstrings/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
 [license-url]: https://github.com/guyewhite/CSVto3Dstrings/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
