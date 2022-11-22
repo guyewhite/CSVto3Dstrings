@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-## CSVto#Dstrings
+## CSVto3Dstrings
 
 CSVto3Dstrings is a useful tool to convert any CSV file into a 3-d array of strings in C. I created it after amassing a fairly large spreadsheet of musical scale and note values and wanted to convert those for use in a C program. This tool could be useful for anyone needing to keep track of various attributes within such a 3d array.
 
