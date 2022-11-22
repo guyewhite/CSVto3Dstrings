@@ -46,7 +46,7 @@ Pending...
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/contributors/github/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
 [contributors-url]: https://github.com/guyewhite/CSVto3Dstrings/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
 [forks-url]: https://github.com/guyewhite/CSVto3Dstrings/network/members
